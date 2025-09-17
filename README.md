@@ -16,7 +16,7 @@ I'm a passionate developer and researcher with a focus on control systems, param
 - **[vaccine_research](https://github.com/mathslayer-compe/vaccine_research)**  
   Data analysis for vaccine research, integrating bioinformatics and statistical modeling.
 
-- **[ooo_processor](https://github.com/mathslayer-compe/ooo_processor)**
+- **[ooo_processor](https://github.com/mathslayer-compe/ooo_processor)**            
   32-bit Out of Order RISC-V Processor
 
 ### 🌱 What I'm Working On
