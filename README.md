@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Akhil Nallacheruvu
 
-I'm a passionate developer and researcher with a focus on control systems, parameter estimation, signal processing, and computer vision. My work spans both theoretical and applied domains, with active contributions in the following areas:
+I'm a passionate developer and researcher with a focus on control systems, parameter estimation, signal processing, computer architecture, and computer vision. My work spans both theoretical and applied domains, with active contributions in the following areas:
 
 ### 💻 Top Projects
 
@@ -15,6 +15,9 @@ I'm a passionate developer and researcher with a focus on control systems, param
 
 - **[vaccine_research](https://github.com/mathslayer-compe/vaccine_research)**  
   Data analysis for vaccine research, integrating bioinformatics and statistical modeling.
+
+- **[ooo_processor](https://github.com/mathslayer-compe/ooo_processor)**
+  32-bit Out of Order RISC-V Processor 
 
 ### 🌱 What I'm Working On
 Exploring different Machine Learning methods for Object Detection, Semantic Segmentation, and Image Classification with UCSD E4E
