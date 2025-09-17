@@ -17,7 +17,7 @@ I'm a passionate developer and researcher with a focus on control systems, param
   Data analysis for vaccine research, integrating bioinformatics and statistical modeling.
 
 - **[ooo_processor](https://github.com/mathslayer-compe/ooo_processor)**
-  32-bit Out of Order RISC-V Processor 
+  32-bit Out of Order RISC-V Processor.
 
 ### 🌱 What I'm Working On
 Exploring different Machine Learning methods for Object Detection, Semantic Segmentation, and Image Classification with UCSD E4E
