@@ -17,7 +17,7 @@ I'm a passionate developer and researcher with a focus on control systems, param
   Data analysis for vaccine research, integrating bioinformatics and statistical modeling.
 
 ### 🌱 What I'm Working On
-- Exploring different Machine Learning methods for Object Detection, Semantic Segmentation, and Image Classification
+- Exploring different Machine Learning methods for Object Detection, Semantic Segmentation, and Image Classification with UCSD E4E
 
 
 
