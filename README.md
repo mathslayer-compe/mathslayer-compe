@@ -20,7 +20,7 @@ I'm a passionate developer and researcher with a focus on control systems, param
   32-bit Out of Order RISC-V Processor
 
 ### 🌱 What I'm Working On
-Exploring different Machine Learning methods for Object Detection, Semantic Segmentation, and Image Classification with UCSD E4E
+Active Learning + Computer Vision at UCSD E4E
 
 
 
