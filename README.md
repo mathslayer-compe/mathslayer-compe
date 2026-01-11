@@ -20,7 +20,7 @@ I'm a passionate developer and researcher with a focus on control systems, param
   32-bit Out of Order RISC-V Processor
 
 ### 🌱 What I'm Working On
-Active Learning + Computer Vision at UCSD E4E
+Leading Research and Development of Underwater Vision Models at UCSD E4E
 
 
 
