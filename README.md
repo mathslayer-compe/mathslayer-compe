@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Akhil Nallacheruvu
 
-I am a Machine Learning Engineer and Researcher specializing in Computer Vision and Embedded AI Systems. I focus on translating ML research into deployable solutions that integrate tightly with hardware constraints.
+I am a Machine Learning Engineer and Researcher working at the intersection of computer vision, machine learning, and systems design. I focus on translating learning-based methods into deployable, resource-aware implementations that integrate tightly with hardware and embedded platforms. My work spans algorithm development, optimization-based estimation, and computer architecture, with an emphasis on building end-to-end intelligent systems.
 
 ### 💻 Top Projects
 
