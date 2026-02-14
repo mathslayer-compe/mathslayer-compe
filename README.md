@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Akhil Nallacheruvu
 
-I'm a passionate developer and researcher with a focus on control systems, parameter estimation, signal processing, computer architecture, and computer vision. My work spans both theoretical and applied domains, with active contributions in the following areas:
+I am a Machine Learning Engineer and Researcher specializing in Computer Vision and Embedded AI Systems. I focus on translating ML research into deployable solutions that integrate tightly with hardware constraints.
 
 ### 💻 Top Projects
 
