@@ -4,20 +4,20 @@ I'm a passionate developer and researcher with a focus on control systems, param
 
 ### 💻 Top Projects
 
-- **[Active Learning for Object Detection](https://github.com/mathslayer-compe/fishDetAL)**
-   Research project exploring the applications of Active Learning in Underwater Vision
+- **[Active Learning for Object Detection](https://github.com/mathslayer-compe/fishDetAL)**  
+  Research project exploring the application of active learning strategies to underwater object detection and vision systems.
 
-- **[Out of Order Processor](https://github.com/mathslayer-compe/ooo_processor)**            
-  32-bit Out of Order RISC-V Processor
+- **[Out-of-Order RISC-V Processor](https://github.com/mathslayer-compe/ooo_processor)**  
+  32-bit out-of-order superscalar RISC-V processor implementing dynamic scheduling and instruction-level parallelism.
 
-- **[Exploration of Shortest Path Algorithms](https://github.com/mathslayer-compe/Final-Project-CS225)**  
-  Exploration of Djikstra's and BFS algorithms applicable for GPS apps
+- **[Shortest Path Algorithms Exploration](https://github.com/mathslayer-compe/Final-Project-CS225)**  
+  Comparative analysis of Dijkstra’s and Breadth-First Search (BFS) algorithms, with applications to GPS-style routing systems.
 
-- **[vaccine_research](https://github.com/mathslayer-compe/vaccine_research)**  
-  Data analysis for vaccine research, integrating bioinformatics and statistical modeling.
+- **[Vaccine Research Data Analysis](https://github.com/mathslayer-compe/vaccine_research)**  
+  Bioinformatics-focused data analysis integrating statistical modeling and computational methods for vaccine research.
 
-- **[Machine Learning](https://github.com/mathslayer-compe/ML)**
-  Projects to bridge the gap between ML Theory and Python Implementation
+- **[Machine Learning Projects](https://github.com/mathslayer-compe/ML)**  
+  Implementations bridging machine learning theory and practical Python-based experimentation.
 
 
 
