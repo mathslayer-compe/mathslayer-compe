@@ -5,7 +5,8 @@ I'm a passionate developer and researcher with a focus on control systems, param
 ### 💻 Top Projects
 
 - **[Active Learning for Object Detection](https://github.com/mathslayer-compe/fishDetAL)**
-  Research project exploring the applications of Active Learning in Underwater Vision
+
+Research project exploring the applications of Active Learning in Underwater Vision
 
 - **[Out of Order Processor](https://github.com/mathslayer-compe/ooo_processor)**            
   32-bit Out of Order RISC-V Processor
