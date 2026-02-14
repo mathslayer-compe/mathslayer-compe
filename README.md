@@ -4,27 +4,27 @@ I'm a passionate developer and researcher with a focus on control systems, param
 
 ### 💻 Top Projects
 
-- **[Linear-Control-Systems](https://github.com/mathslayer-compe/Linear-Control-Systems)**  
-  Tools and resources for modeling, analyzing, and designing linear control systems, featuring practical code and theory for students and engineers.
+- **[Active Learning for Object Detection](https://github.com/mathslayer-compe/fishDetAL)**
+  Research project exploring the applications of Active Learning in Underwater Vision
 
-- **[Parameter-Estimation](https://github.com/mathslayer-compe/Parameter-Estimation)**  
-  A collection of algorithms and code for parameter estimation—covering both classical and modern approaches in system identification and data-driven modeling.
+- **[Out of Order Processor](https://github.com/mathslayer-compe/ooo_processor)**            
+  32-bit Out of Order RISC-V Processor
 
-- **[DSP-Projects-Pt2](https://github.com/mathslayer-compe/DSP-Projects-Pt2)**  
-  Hands-on digital signal processing (DSP) projects, including implementations of core DSP algorithms and techniques.
+- **[Exploration of Shortest Path Algorithms](https://github.com/mathslayer-compe/Final-Project-CS225)**  
+  Exploration of Djikstra's and BFS algorithms applicable for GPS apps
 
 - **[vaccine_research](https://github.com/mathslayer-compe/vaccine_research)**  
   Data analysis for vaccine research, integrating bioinformatics and statistical modeling.
 
-- **[ooo_processor](https://github.com/mathslayer-compe/ooo_processor)**            
-  32-bit Out of Order RISC-V Processor
+- **[Machine Learning](https://github.com/mathslayer-compe/ML)**
+  Projects to bridge the gap between ML Theory and Python Implementation
+
+
 
 ### 🌱 What I'm Working On
-Leading Research and Development of Underwater Vision Models at UCSD E4E
+Leading Research and Development of Underwater Vision Systems at Engineers for Exploration at UCSD
 
-The repository for my current active learning pipeline project is private. Please contact me at **[anallacheruvu@gmail.com](anallacheruvu@gmail.com)** to collaborate or contribute to the project.
-
-
+For questions or collaborations, please contact [anallacheruvu@gmail.com](anallacheruvu@gmail.com)
 
 ---
 
