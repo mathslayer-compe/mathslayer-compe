@@ -5,20 +5,19 @@ I am a Machine Learning Engineer and Researcher specializing in Computer Vision 
 ### 💻 Top Projects
 
 - **[Active Learning for Object Detection](https://github.com/mathslayer-compe/fishDetAL)**  
-  Research project exploring the application of active learning strategies to underwater object detection and vision systems.
+  Active learning framework for underwater object detection, improving annotation efficiency and model performance in vision systems.
+
+- **[Orientation Tracking with Projected Gradient Descent](https://github.com/mathslayer-compe/orientation_tracking)**  
+  IMU-based 3D orientation tracking using constrained quaternion trajectory optimization via projected gradient descent, applied to panoramic image reconstruction.
 
 - **[Out-of-Order RISC-V Processor](https://github.com/mathslayer-compe/ooo_processor)**  
-  32-bit out-of-order superscalar RISC-V processor implementing dynamic scheduling and instruction-level parallelism.
+  32-bit out-of-order superscalar RISC-V processor implementing dynamic scheduling, register renaming, and instruction-level parallelism.
 
 - **[Shortest Path Algorithms Exploration](https://github.com/mathslayer-compe/Final-Project-CS225)**  
-  Comparative analysis of Dijkstra’s and Breadth-First Search (BFS) algorithms, with applications to GPS-style routing systems.
+  Comparative implementation and analysis of Dijkstra’s and Breadth-First Search (BFS) algorithms for GPS-style routing applications.
 
 - **[Vaccine Research Data Analysis](https://github.com/mathslayer-compe/vaccine_research)**  
-  Bioinformatics-focused data analysis integrating statistical modeling and computational methods for vaccine research.
-
-- **[Machine Learning Projects](https://github.com/mathslayer-compe/ML)**  
-  Implementations bridging machine learning theory and practical Python-based experimentation.
-
+  Bioinformatics data analysis integrating statistical modeling and computational methods for vaccine research.
 
 
 ### 🌱 What I'm Working On
