@@ -8,7 +8,7 @@ I am a Machine Learning Engineer and Researcher working at the intersection of c
   Active learning framework for underwater object detection, improving annotation efficiency and model performance in vision systems.
 
 - **[LiDAR-based SLAM](https://github.com/mathslayer-compe/factor_graph_slam)**
- LiDAR-based SLAM featuring factor graph optimization for trajectory estimation and probabilistic occupancy grid mapping
+LiDAR-based SLAM featuring factor graph optimization for trajectory estimation and probabilistic occupancy grid mapping.
 
 - **[Orientation Tracking with Projected Gradient Descent](https://github.com/mathslayer-compe/orientation_tracking)**  
   IMU-based 3D orientation tracking using constrained quaternion trajectory optimization via projected gradient descent, applied to panoramic image reconstruction.
